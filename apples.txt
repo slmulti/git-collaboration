@@ -3,4 +3,4 @@
 - Fiji
 - Cooking Apples
 - Red Apples
-- braeburn apple
+- Braeburn apple
